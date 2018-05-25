@@ -1,1 +1,1 @@
-blog.py  ÅÀÈ¡²®ÀÖÔÚÏßµÄ×ÊÔ´  copy by https://www.cnblogs.com/kba977/p/python.html
+blog.py çˆ¬å–ä¼¯ä¹åœ¨çº¿çš„èµ„æº  copy by https://www.cnblogs.com/kba977/p/python.html
